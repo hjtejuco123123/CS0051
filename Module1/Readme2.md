@@ -1,4 +1,4 @@
-<!--
+
 # 🧠 Module 1: Introduction to Sequential, Concurrent, and Parallel Computing
 
 ## 📘 Learning Objectives
@@ -181,6 +181,5 @@ Select an activity:
 # 💬 End of Module 1
 
 Congratulations! Reflect on what you learned before moving to the next module.
--->
 
 
